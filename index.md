@@ -1,4 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+ <style/>
 
 <h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2>
 <main>
