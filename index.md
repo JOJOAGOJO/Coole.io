@@ -6,7 +6,7 @@
 
 <h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2>
 <main>
-  <p class="red-text">Click this for video evidence <a href="#">Real Proof</a>.</p>
+  <p class="red-text">Click this for video evidence <a href="https://www.youtube.com/watch?v=LRxaXmXvjnU">Real Proof</a>.</p>
   
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
   
