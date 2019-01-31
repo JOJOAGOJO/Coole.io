@@ -7,10 +7,10 @@
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
   
   <div class="silver-background">
-    <p>Things cats love:</p>
+    <p>Pasta robots proof:</p>
     <ul>
-      <li>cat nip</li>
-      <li>laser pointers</li>
+      <li>Have you ever seen pasta rot?</li>
+      <li>Pasta was supposedly made by italians, but in reality it was made by aliens in the future</li>
       <li>lasagna</li>
     </ul>
     <p>Top 3 things cats hate:</p>
