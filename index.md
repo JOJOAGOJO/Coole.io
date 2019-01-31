@@ -13,11 +13,11 @@
       <li>Pasta was supposedly made by italians, but in reality it was made by aliens in the future</li>
       <li>lasagna</li>
     </ul>
-    <p>Top 3 things cats hate:</p>
+    <p>Ways to combat pasta:</p>
     <ol>
-      <li>flea treatment</li>
-      <li>thunder</li>
-      <li>other cats</li>
+      <li>eat it</li>
+      <li>dont eat it</li>
+      <li>mabey eat it a little</li>
     </ol>
   </div>
   
