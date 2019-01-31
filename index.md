@@ -8,7 +8,7 @@
 <main>
   <p class="red-text">Click this for video evidence <a href="https://www.youtube.com/watch?v=LRxaXmXvjnU">Real Proof</a>.</p>
   
-  <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border"https://www.seriouseats.com/recipes/images/2016/08/20160827-cherry-tomato-pasta-13-1500x1125.jpg" alt="A cute orange cat lying on its back."></a>
   
   <div class="silver-background">
     <p>Pasta robots proof:</p>
