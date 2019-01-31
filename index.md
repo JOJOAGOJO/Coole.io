@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2>
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
   
