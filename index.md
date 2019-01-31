@@ -8,7 +8,7 @@
 <main>
   <p class="red-text">Click this for video evidence <a href="https://www.youtube.com/watch?v=LRxaXmXvjnU">Real Proof</a>.</p>
   
-  <a href="#"><img class="smaller-image thick-green-border"https://media.fox5ny.com/media.fox5ny.com/photo/2019/01/28/pasta-death_1548693911750_6682527_ver1.0_640_360.jpg" alt="A cute orange cat lying on its back."></a>
+<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
   
   <div class="silver-background">
     <p>Pasta robots proof:</p>
