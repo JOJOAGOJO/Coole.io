@@ -1,9 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-
-  .red-text {
-    color: red;
-  }
-
+<style>
+    .red-text {
+      color: red;
+    }
+</style>
 <h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2>
 <main>
   <p class="red-text">Click this for video evidence <a href="https://www.youtube.com/watch?v=LRxaXmXvjnU">Real Proof</a>.</p>
