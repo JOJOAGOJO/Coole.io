@@ -28,9 +28,9 @@
   <form action="/submit-cat-photo" id="cat-photo-form">
     <label><input type="radio" name="indoor-outdoor" checked> pasta</label>
     <label><input type="radio" name="indoor-outdoor"> not_pasta</label><br>
-    <label><input type="checkbox" name="personality" checked> Loving</label>
-    <label><input type="checkbox" name="personality"> Lazy</label>
-    <label><input type="checkbox" name="personality"> Energetic</label><br>
+    <label><input type="checkbox" name="personality" checked> this</label>
+    <label><input type="checkbox" name="personality"> is</label>
+    <label><input type="checkbox" name="personality"> not real</label><br>
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
