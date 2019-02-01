@@ -2,9 +2,14 @@
 <style>
     .red-text {
       color: red;
+     text-align: center;
+    margin: auto;
+    width: 99%;
     }
 </style>
-<h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2>
+<header>
+<h2 class="red-text">Pasta is secretly robots from the future here to kill you</h2> </header>
+
 <main>
   <p class="red-text">Click this for video evidence <a href="https://www.youtube.com/watch?v=LRxaXmXvjnU">Real Proof</a>.</p>
   
